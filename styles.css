@@ -43,7 +43,7 @@ body {
     font-weight: bold;
 }
 
-.content1 {
+.cor {
     display: flex;
     justify-content: center;
     font-family: "Spectral", sans-serif;
@@ -64,3 +64,87 @@ body {
     color: #941212;
 }
 
+
+.student-info {
+    margin: 0;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(203, 204, 245);
+    text-align: center;
+    font-size: 1.2rem;
+    word-spacing: 0.1em;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.gender-age{
+    display: flex;
+}
+
+
+.student-container {
+    margin: 0;
+    padding: 10px; 
+    border: solid black;
+    height: fit-content;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+
+
+.container1{
+    width: 33.4%;
+    padding: 10px;
+}
+
+.student-information{
+    display: flex;
+    width: 100%;
+    
+}
+
+.number-name,.College, .School-year{
+    font-weight: bold;
+    
+}
+
+.number-name li{
+    margin-bottom: 7px;
+}
+
+.student-id{
+    margin-left: 20px;
+}
+
+.student-name{
+    margin-left: 20px;
+}
+
+.gender-age-container {
+    margin-top: 30px;
+}
+
+.age-num, .gender-value {
+    font-weight: normal; 
+}
+
+.age {
+    margin-left: 50px;
+}
+
+.gender-age li span, .School-year li span {
+    margin-left: 10px;
+}
+
+
+.container2{
+    width: 40%;
+    padding: 10px;
+}
+
+.bachelor, .college1, .curr {
+    font-weight: normal; 
+}
