@@ -175,6 +175,31 @@ body {
     height: fit-content;
     width: 90%; 
     margin-left: auto; 
-    margin-right: auto; s
+    margin-right: auto;
 }
 
+
+.courses_tab table {
+    margin: 0;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 10px; 
+    height: fit-content;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    
+}
+
+
+.courses_tab table td,
+.courses_tab table th {
+    padding: 15px; 
+    text-align: left; 
+    flex: 10;
+    
+    
+}
+.courses_tab table td{
+    padding-left: 45px;
+}
