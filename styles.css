@@ -86,7 +86,7 @@ body {
 .student-container {
     margin: 0;
     padding: 10px; 
-    border: solid black;
+    border: 2px solid black;
     height: fit-content;
     width: 90%; 
     margin-left: auto; 
@@ -148,3 +148,33 @@ body {
 .bachelor, .college1, .curr {
     font-weight: normal; 
 }
+
+
+.table2 table th{
+    background-color: rgb(203, 204, 245);
+    padding: .5rem;    
+    text-align: center;
+
+}
+.table2 table {
+    margin: 0;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px; 
+    height: fit-content;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.border1 {
+    margin: 0;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 10px; 
+    height: fit-content;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto; s
+}
+
